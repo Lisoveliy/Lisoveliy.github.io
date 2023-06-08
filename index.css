@@ -5,6 +5,7 @@ body{
     background-color: #dd7373;
     color: #d1d1d1;
     font-family: 'Manrope';
+    display: block;
 }
 .up_block{
     display: flex;

@@ -11,8 +11,8 @@
 	--trans-dur: 0.3s;
 	font-size: calc(16px + (24 - 16) * (100vw - 320px) / (1280 - 320));
 }
-body {
-	background-color: var(--bg);
+#preloader {
+    background-color: #dd7373;
 	color: var(--fg);
 	height: 100vh;
 	display: grid;
