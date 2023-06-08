@@ -49,6 +49,10 @@ a{
 }
 .links a{
     text-decoration: none;
+    transition: 0.15s linear;
+}
+.links a:hover{
+    font-size: 1.1rem;
 }
 #particles-js{
     width: 100%;
